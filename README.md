@@ -1,5 +1,6 @@
 # SideProject
 This repository contains some side projects.
+
 Baby Name Graphic: Baby name contains top 1000 popular names from https://www.ssa.gov/OACT/babynames/. 
                    The rank of the lookup name will be displayed on the canvas.
                    

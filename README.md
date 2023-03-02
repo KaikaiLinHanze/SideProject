@@ -4,7 +4,7 @@ This repository contains some side projects.
 Baby Name Graphic: Baby name contains top 1000 popular names from https://www.ssa.gov/OACT/babynames/. 
                    The rank of the lookup name will be displayed on the canvas.
                    
-Boggle Game: It is a popular game in USA. I used the backtracking technique to search for words greater than 4 characters.
+Boggle Game: It is a popular game in USA. I used backtracking technique to search for words greater than 4 characters.
 
 Breakout Game: It is a traditional game. I used campy class to create the window and the odjects that use in the game.
 
